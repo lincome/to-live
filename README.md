@@ -1,5 +1,5 @@
 ## 活着
-「人是为了活着本身而活着，而不是为了活着之外的任何事物而活着」
+「人是为了活着本身而活着，而不是为了活着之外的任何事物而活着」--余华
 ### 目录
 - [第一章](https://github.com/lincome/lincome.github.io/blob/master/1.md)
 - [第二章](https://github.com/lincome/lincome.github.io/blob/master/2.md)
