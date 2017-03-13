@@ -1,2 +1,2 @@
 ## Welcome to lincome blog
-[baidu](lincome.github.io/a.md)
+[baidu](http://blog.xingxingdd.cn/a.md)
