@@ -1,16 +1,5 @@
 ## 活着
 「人是为了活着本身而活着，而不是为了活着之外的任何事物而活着」--余华
-### 目录
-- [第一章](https://github.com/lincome/lincome.github.io/blob/master/1.md)
-- [第二章](https://github.com/lincome/lincome.github.io/blob/master/2.md)
-- [第三章](https://github.com/lincome/lincome.github.io/blob/master/3.md)
-- [第四章](https://github.com/lincome/lincome.github.io/blob/master/4.md)
-- [第五章](https://github.com/lincome/lincome.github.io/blob/master/5.md)
-- [第六章](https://github.com/lincome/lincome.github.io/blob/master/6.md)
-- [第七章](https://github.com/lincome/lincome.github.io/blob/master/7.md)
-- [第八章](https://github.com/lincome/lincome.github.io/blob/master/8.md)
-- [第九章](https://github.com/lincome/lincome.github.io/blob/master/9.md)
-- [第十章](https://github.com/lincome/lincome.github.io/blob/master/10.md)  
 
 ### 书评
 　　活着本身就有意义，不需要为活着寻找其他意义，不需要为了什么而活着，只是这个道理我们已经忘记了，活着本身被遮蔽。不过活着的意义不容易找，死去的理由却到处都是：因为饭堂的饭菜不可口，有的人会自杀；因为工作压力太大，有人跳楼了；失恋了就自挂东南枝；无颜见江东父老就乌江自刎……我们相信有一种死轻于鸿毛，有一种死重于泰山，有的人死了他还活着，而有些人活着却死了，我们崇拜那些舍身取义的，宁为玉碎的，唾弃贪生怕死，苟且偷生，如果生命没有质量，那么也不需要数量。  
